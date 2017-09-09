@@ -8,13 +8,13 @@
 {
     color: #A946EB;
 }
-/* Co-owner FF007F */
+/* Co-owner */
 #chat .chat-container .chat-messages .chat-main li.co-owner .user-role,
 #chat .chat-container .chat-messages .chat-main li.co-owner .username,
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner .user-role,
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner .username
 {
-    color: #3083FF;
+    color: #FF007F;
 }
 /* Manager */
 #chat .chat-container .chat-messages .chat-main li.manager .user-role,
@@ -22,7 +22,7 @@
 #main_avatar_room #main-user-list-room #avatar-list li.manager .user-role,
 #main_avatar_room #main-user-list-room #avatar-list li.manager .username
 {
-    color: #3083FF;
+    color: #1750a5;
 }
 /* Modarator */ 
 #chat .chat-container .chat-messages .chat-main li.mod .user-role,
@@ -89,12 +89,8 @@
 }
 
 .resident-dj span.user-role-icon {
-    background-image: url(https://nightbloo.github.io/plug/icons/rdj.png);
+    background-image: url(https://xragnax.github.io/ragnax.github.io/css/Icons/RDJ.png);
     display: inline-block !important;
-}
-
-#chat .chat-main .user-56005297239f1303009c88c5 .username {
-    color: #4dc9ff !important;
 }
 
 /* Emote sizes */
