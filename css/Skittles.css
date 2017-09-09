@@ -64,12 +64,12 @@
 
 /* badges */
 .creator span.user-role-icon {
-    background-image: url(https://xragnax.github.io/ragnax.github.io/css/Icons/Creator (3).png);
+    background-image: url(https://xragnax.github.io/ragnax.github.io/css/Icons/Creator.png);
     display: inline-block !important;
 }
 
 .co-owner span.user-role-icon {
-    background-image: url(https://xragnax.github.io/ragnax.github.io/css/Icons/VIP.png);
+    background-image: url(https://xragnax.github.io/ragnax.github.io/css/Icons/Creator.png);
     display: inline-block !important;
 }
 
