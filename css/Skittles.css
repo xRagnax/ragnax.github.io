@@ -14,7 +14,7 @@
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner .user-role,
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner .username
 {
-    color: #A946EB;
+    color: #12FC9F;
 }
 /* Manager */
 #chat .chat-container .chat-messages .chat-main li.manager .user-role,
@@ -38,7 +38,7 @@
 #main_avatar_room #main-user-list-room #avatar-list li.vip .user-role,
 #main_avatar_room #main-user-list-room #avatar-list li.vip .username
 {
-    color: #29A3A3;
+    color: #12FC9F;
 }
 /* RDJ */ 
 #chat .chat-container .chat-messages .chat-main li.resident-dj .user-role,
@@ -69,7 +69,7 @@
 }
 
 .co-owner span.user-role-icon {
-    background-image: url(https://xragnax.github.io/ragnax.github.io/css/Icons/Creator (3).png);
+    background-image: url(https://xragnax.github.io/ragnax.github.io/css/Icons/VIP.png);
     display: inline-block !important;
 }
 
