@@ -22,7 +22,7 @@
 #main_avatar_room #main-user-list-room #avatar-list li.manager .user-role,
 #main_avatar_room #main-user-list-room #avatar-list li.manager .username
 {
-    color: #2671e2;
+    color: #125AC7;
 }
 /* Modarator */ 
 #chat .chat-container .chat-messages .chat-main li.mod .user-role,
@@ -74,7 +74,7 @@
 }
 
 .manager span.user-role-icon {
-    background-image: url(WIP);
+    background-image: url(https://xragnax.github.io/ragnax.github.io/css/Icons/manager.png);
     display: inline-block !important;
 }
 
