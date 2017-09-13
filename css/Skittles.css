@@ -5,6 +5,7 @@
 #chat .chat-container .chat-messages .chat-main li.creator .username,
 #main_avatar_room #main-user-list-room #avatar-list li.creator .user-role,
 #main_avatar_room #main-user-list-room #avatar-list li.creator .username
+#player-controller .left ul li.infoContainer .infoContainerInner .currentDJSong.creator .username,
 {
     color: #ba7fe2;
 }
@@ -13,6 +14,7 @@
 #chat .chat-container .chat-messages .chat-main li.co-owner .username,
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner .user-role,
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner .username
+#player-controller .left ul li.infoContainer .infoContainerInner .currentDJSong.co-owner .username
 {
     color: #af1196;
 }
@@ -21,6 +23,7 @@
 #chat .chat-container .chat-messages .chat-main li.manager .username,
 #main_avatar_room #main-user-list-room #avatar-list li.manager .user-role,
 #main_avatar_room #main-user-list-room #avatar-list li.manager .username
+#player-controller .left ul li.infoContainer .infoContainerInner .currentDJSong.manager .username
 {
     color: #125AC7;
 }
@@ -29,6 +32,7 @@
 #chat .chat-container .chat-messages .chat-main li.mod .username,
 #main_avatar_room #main-user-list-room #avatar-list li.mod .user-role,
 #main_avatar_room #main-user-list-room #avatar-list li.mod .username
+#player-controller .left ul li.infoContainer .infoContainerInner .currentDJSong.mod .username
 {
     color: #5086d6;
 }
@@ -37,6 +41,7 @@
 #chat .chat-container .chat-messages .chat-main li.vip .username,
 #main_avatar_room #main-user-list-room #avatar-list li.vip .user-role,
 #main_avatar_room #main-user-list-room #avatar-list li.vip .username
+#player-controller .left ul li.infoContainer .infoContainerInner .currentDJSong.vip .username
 {
     color: #12FC9F;
 }
@@ -45,6 +50,7 @@
 #chat .chat-container .chat-messages .chat-main li.resident-dj .username,
 #main_avatar_room #main-user-list-room #avatar-list li.resident-dj .user-role,
 #main_avatar_room #main-user-list-room #avatar-list li.resident-dj .username
+#player-controller .left ul li.infoContainer .infoContainerInner .currentDJSong.resident-dj .username
 {
     color: #33CCFF;
 }
@@ -53,6 +59,7 @@
 #chat .chat-container .chat-messages .chat-main li.admin .username,
 #main_avatar_room #main-user-list-room #avatar-list li.admin .user-role,
 #main_avatar_room #main-user-list-room #avatar-list li.admin .username
+#player-controller .left ul li.infoContainer .infoContainerInner .currentDJSong.admin .username
 {
     color: #ff7e00;
 }
